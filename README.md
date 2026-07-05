@@ -25,6 +25,13 @@ Travel Explorer is a responsive travel website created using HTML, CSS, and Java
 - style.css
 - script.js
 
+## screenshots
+
+![Project Screenshot](screenshot_task3_1.jpg)
+![Project Screenshot](screenshot_task3_2.jpg)
+![Project Screenshot](screenshot_task3_3.jpg)
+![Project Screenshot](screenshot_task3_4.jpg)
+
 ## Author
 
 Faseeha Thajudeen
