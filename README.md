@@ -27,13 +27,14 @@ Travel Explorer is a responsive travel website created using HTML, CSS, and Java
 
 ## screenshots
 
-
 Dark Mode toggle
+
 ![Project Screenshot](screenshot_task3_1.jpg)
 
 ![Project Screenshot](screenshot_task3_2.jpg)
 
 Like button interaction
+
 ![Project Screenshot](screenshot_task3_3.jpg)
 
 ![Project Screenshot](screenshot_task3_4.jpg)
